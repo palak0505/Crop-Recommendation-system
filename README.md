@@ -6,4 +6,24 @@ It aims to assist farmers and agriculture professionals in making decisions abou
 
 The system takes into account several factors such as soil type, climate, rainfall, temperature, humidity, and pH levels to determine the most suitable crops for a given region. By analyzing historical data and using predictive models, the system provides personalized recommendations tailored to the specific conditions of a farm or agricultural area.
 
-Key Features
+#Key Features
+The system takes into account several factors such as soil type, climate, rainfall, temperature, humidity, and pH levels to determine the most suitable crops for a given region. By analyzing historical data and using predictive models, the system provides personalized recommendations tailored to the specific conditions of a farm or agricultural area.
+
+Machine Learning Models: Various machine learning algorithms are employed, including decision trees, random forests, support vector machines (SVM), and gradient boosting techniques, to build predictive models. 
+
+Crop Recommendation: Based on the trained models, the system recommends the most suitable crops for the given input parameters. User-Friendly Interface: The system provides a user-friendly interface where users can easily input their data, view recommendations, and explore additional information.
+
+# Technologies Used
+Python: Programming language used for model development, data preprocessing, and web application development.
+
+Scikit-learn: Machine learning library used for model training, evaluation, and prediction.
+
+Pandas: Data manipulation library used for data preprocessing and analysis.
+
+NumPy: Library for numerical computing used for handling arrays and mathematical operations.
+
+Flask: Web framework used for building the user interface and handling HTTP requests. HTML/CSS: Markup and styling languages used for designing the web interface. JavaScript: Scripting language used for client-side interactions and enhancing the user interface.
+
+
+
+
